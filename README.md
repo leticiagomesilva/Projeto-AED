@@ -15,7 +15,7 @@ cd /c/Users/SeuUsuario/SeuDiretorio
 Clone o repositório para o diretório navegado, utilizando o comando:
 
 ```
-git clone https://github.com/
+git clone https://github.com/leticiagomesilva/Projeto-AED.git
 ```
 
 INICIANDO O JOGO
